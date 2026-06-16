@@ -13,6 +13,7 @@
 
 <p align="center">
   <a href="#installation">Installation</a> &middot;
+  <a href="#sponsor">Sponsor</a> &middot;
   <a href="#capabilities">Capabilities</a> &middot;
   <a href="#usage">Usage</a> &middot;
   <a href="#plugin-structure">Structure</a> &middot;
@@ -82,6 +83,20 @@ Add to your project's `.claude/settings.json` so team members are auto-prompted 
   }
 }
 ```
+
+---
+
+## Sponsor
+
+<p align="center">
+  <a href="https://www.swiftproxy.net/">
+    <img src="https://www.swiftproxy.net/static/swift_proxy/images/home/logo.webp" alt="SwiftProxy" height="64"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.swiftproxy.net/">SwiftProxy</a> provides a worldwide network of over 80 million residential proxies with 99.89% uptime, delivering fast and stable connections that power AI, business intelligence, and automation.
+</p>
 
 ---
 
