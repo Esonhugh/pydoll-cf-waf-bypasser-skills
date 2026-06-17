@@ -1,6 +1,22 @@
 ---
 name: pydoll-antibot-bypasser
-description: Stealth browser automation using pydoll library, specialized in bypassing Cloudflare WAF, Turnstile CAPTCHA, and other bot detection systems. **You MUST invoke this skill in ANY of these situations:** (1) The user explicitly asks to bypass WAF, anti-bot, CAPTCHA, or human verification (Cloudflare, DataDome, PerimeterX, Akamai, etc.). (2) You encounter Cloudflare protection while scraping or fetching a URL — signs include HTTP 403/503 responses, pages containing "Checking your browser", "Just a moment...", "Attention Required", "cf-browser-verification", "cf-chl-bypass", "_cf_chl_opt", Turnstile widget HTML, or any response body mentioning "cloudflare" with a challenge/block page. (3) A WebFetch or curl fails with what appears to be bot detection or WAF blocking. (4) The user wants to crawl, scrape, or automate interaction with a website known to use anti-bot protection. When in doubt about whether a site is WAF-protected, invoke this skill — it is better to invoke and not need it than to miss a bypass opportunity. Also suitable for: stealth browser operations, Shadow DOM handling, human-like behavior simulation, and concurrent web automation.
+description: >
+  Stealth browser automation using pydoll library, specialized in bypassing
+  Cloudflare WAF, Turnstile CAPTCHA, and other bot detection systems. **You MUST
+  invoke this skill in ANY of these situations:** (1) The user explicitly asks
+  to bypass WAF, anti-bot, CAPTCHA, or human verification (Cloudflare, DataDome,
+  PerimeterX, Akamai, etc.). (2) You encounter Cloudflare protection while
+  scraping or fetching a URL — signs include HTTP 403/503 responses, pages
+  containing "Checking your browser", "Just a moment...", "Attention Required",
+  "cf-browser-verification", "cf-chl-bypass", "_cf_chl_opt", Turnstile widget
+  HTML, or any response body mentioning "cloudflare" with a challenge/block
+  page. (3) A WebFetch or curl fails with what appears to be bot detection or
+  WAF blocking. (4) The user wants to crawl, scrape, or automate interaction
+  with a website known to use anti-bot protection. When in doubt about whether a
+  site is WAF-protected, invoke this skill — it is better to invoke and not need
+  it than to miss a bypass opportunity. Also suitable for: stealth browser
+  operations, Shadow DOM handling, human-like behavior simulation, and
+  concurrent web automation.
 ---
 
 # Pydoll Antibot Bypasser Skill
