@@ -89,13 +89,13 @@ Add to your project's `.claude/settings.json` so team members are auto-prompted 
 ## Sponsor
 
 <p align="center">
-  <a href="https://www.swiftproxy.net/">
-    <img src="https://www.swiftproxy.net/static/swift_proxy/images/home/logo.webp" alt="SwiftProxy" height="64"/>
+  <a href="https://www.swiftproxy.net/?ref=Esonhugh">
+    <img src="assets/swiftproxy.net.png" alt="Swiftproxy — Premium residential proxies" width="100%"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.swiftproxy.net/">SwiftProxy</a> provides a worldwide network of over 80 million residential proxies with 99.89% uptime, delivering fast and stable connections that power AI, business intelligence, and automation.
+  <a href="https://www.swiftproxy.net/?ref=Esonhugh">Swiftproxy</a> — Premium residential proxies with 80M+ IPs across 190+ countries. Supports HTTP, HTTPS, and SOCKS5 with rotating and sticky sessions, non-expiring traffic, and free trials. Built for Cloudflare bypass, web scraping, browser automation, and AI workflows. 10% OFF with code: <b>PROXY90</b>.
 </p>
 
 ---
