@@ -86,17 +86,9 @@ Add to your project's `.claude/settings.json` so team members are auto-prompted 
 
 ---
 
-## Sponsor
+## Sponsor 
 
-<p align="center">
-  <a href="https://www.swiftproxy.net/?ref=Esonhugh">
-    <img src="assets/swiftproxy.net.png" alt="Swiftproxy — Premium residential proxies" width="100%"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.swiftproxy.net/?ref=Esonhugh">Swiftproxy</a> — Premium residential proxies with 80M+ IPs across 190+ countries. Supports HTTP, HTTPS, and SOCKS5 with rotating and sticky sessions, non-expiring traffic, and free trials. Built for Cloudflare bypass, web scraping, browser automation, and AI workflows. 10% OFF with code: <b>PROXY90</b>.
-</p>
+Wait for u
 
 ---
 
